@@ -1,0 +1,9 @@
+tree	blossom	Component-Whole(e2,e1)	The girl showed a photo of apple <e1> tree </e1> <e2> blossom </e2> on a fruit tree in the Central Valley.
+battalion	grenadiers	Member-Collection(e2,e1)	They tried an assault of their own an hour later, with two columns of sixteen tanks backed by a <e1> battalion </e1> of Panzer <e2> grenadiers </e2>.
+knowledge	recruits	Entity-Origin(e1,e2)	Their <e1> knowledge </e1> of the power and rank symbols of the Continental empires was gained from the numerous Germanic <e2> recruits </e2> in the Roman army, and from the Roman practice of enfeoffing various Germanic warrior groups with land in the imperial provinces.
+stable	hounds	Member-Collection(e2,e1)	She soon had a <e1> stable </e1> of her own rescued <e2> hounds </e2>.
+singer	commotion	Cause-Effect(e1,e2)	The <e1> singer </e1>, who performed three of the nominated songs, also caused a <e2> commotion </e2> on the red carpet.
+essays	history	other	His intellectually engaging books and <e1> essays </e1> remain pertinent to illuminating contemporary <e2> history </e2>.
+brace	grouse	Member-Collection(e2,e1)	Poor hygiene controls, reports of a <e1> brace </e1> of gamey <e2> grouse </e2> and what looked like a skinned fox all amounted to a pie that was unfit for human consumption.
+dress	blend	other	This sweet <e1> dress </e1> is made with a <e2> blend </e2> of cotton and silk, and the crochet flower necklace is the perfect accessory.
+Suicide	death	Cause-Effect(e1,e2)	<e1> Suicide </e1> is one of the leading causes of <e2> death </e2> among pre-adolescents and teens, and victims of bullying are at an increased risk for committing suicide.

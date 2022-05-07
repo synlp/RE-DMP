@@ -1,0 +1,18 @@
+configuration	elements	Component-Whole(e2,e1)	The system as described above has its greatest application in an arrayed <e1> configuration </e1> of antenna <e2> elements </e2>.
+child	cradle	other	The <e1> child </e1> was carefully wrapped and bound into the <e2> cradle </e2> by means of a cord.
+author	disassembler	Instrument-Agency(e2,e1)	The <e1> author </e1> of a keygen uses a <e2> disassembler </e2> to look at the raw assembly code.
+ridge	surge	other	A misty <e1> ridge </e1> uprises from the <e2> surge </e2>.
+student	association	Member-Collection(e1,e2)	The <e1> student </e1> <e2> association </e2> is the voice of the undergraduate student population of the State University of New York at Buffalo.
+complex	producer	other	This is the sprawling <e1> complex </e1> that is Peru's largest <e2> producer </e2> of silver.
+inflammation	infection	Cause-Effect(e2,e1)	The current view is that the chronic <e1> inflammation </e1> in the distal part of the stomach caused by Helicobacter pylori <e2> infection </e2> results in an increased acid production from the non-infected upper corpus region of the stomach.
+People	downtown	Entity-Destination(e1,e2)	<e1> People </e1> have been moving back into <e2> downtown </e2>.
+lawsonite	platinum crucible	Content-Container(e1,e2)	The <e1> lawsonite </e1> was contained in a <e2> platinum crucible </e2> and the counter-weight was a plastic crucible with metal pieces.
+solvent	flask	Entity-Destination(e1,e2)	The solute was placed inside a beaker and 5 mL of the <e1> solvent </e1> was pipetted into a 25 mL glass <e2> flask </e2> for each trial.
+essays	volume	Member-Collection(e1,e2)	The fifty <e1> essays </e1> collected in this <e2> volume </e2> testify to most of the prominent themes from Professor Quispel's scholarly career.
+composer	oblivion	other	Their <e1> composer </e1> has sunk into <e2> oblivion </e2>.
+citation	reasons	Message-Topic(e1,e2)	The Pulitzer Committee issues an official <e1> citation </e1> explaining the <e2> reasons </e2> for the award.
+burst	pressure	Cause-Effect(e2,e1)	The <e1> burst </e1> has been caused by water hammer <e2> pressure </e2>.
+networks	high-definition broadcast	Instrument-Agency(e2,e1)	Even commercial <e1> networks </e1> have moved into <e2> high-definition broadcast </e2>.
+call	bill	Message-Topic(e1,e2)	It was a friendly <e1> call </e1> to remind them about the <e2> bill </e2> and make sure they have a copy of the invoice.
+virtuoso	instrument	Instrument-Agency(e2,e1)	Texas-born <e1> virtuoso </e1> finds harmony, sophistication in Appalachian <e2> instrument </e2>.
+factory	trays	Product-Producer(e2,e1)	The <e1> factory </e1>'s products have included flower pots, Finnish rooster-whistles, pans, <e2> trays </e2>, tea pots, ash trays and air moisturisers.
