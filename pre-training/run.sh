@@ -1,0 +1,1 @@
+python dep_main.py --do_train --train_data_path=./data/ --label_path=./labels/wiki.rel.txt --use_bert --bert_model=/path/to/bert_base_cased --max_seq_length=300 --train_batch_size=32 --num_train_epochs=1 --save_every_steps=100000 --warmup_proportion=0.2 --learning_rate=1e-5 --model_name=demo
