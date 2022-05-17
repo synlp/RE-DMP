@@ -1,3 +1,7 @@
 
 *.pyc
 *.DS_Store
+logs/
+models/
+pre-training/models/
+pre-training/logs
