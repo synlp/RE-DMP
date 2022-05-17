@@ -1,5 +1,5 @@
 # RE-DMP
-The code for our ACL-2022 paper titled "Improving Relation Extraction through Syntax-induced Pre-training with Dependency Masking"
+The code for our ACL-2022 paper [Improving Relation Extraction through Syntax-induced Pre-training with Dependency Masking](https://aclanthology.org/2022.findings-acl.147/)
 
 
 Please contact us at `yhtian@uw.edu` if you have any questions.
