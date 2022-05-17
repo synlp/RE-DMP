@@ -9,7 +9,17 @@ Please contact us at `yhtian@uw.edu` if you have any questions.
 If you use or extend our work, please cite our paper.
 
 ```
-
+@inproceedings{tian-etal-2022-improving,
+    title = "Improving Relation Extraction through Syntax-induced Pre-training with Dependency Masking",
+    author = "Tian, Yuanhe and Song, Yan and Xia, Fei",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.147",
+    pages = "1875--1886",
+}
 ```
 
 ## Requirements
